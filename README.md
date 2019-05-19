@@ -15,11 +15,10 @@ The following chart shows his measurements.
 The farmer forgot to take color measurement of the last petal and he needs a way 
 to predict what color it might be.
 
-color  | B |  R  | B |  R  |  B |  R  | B |  R  |  ?  |
--------------------------------------------------
-length | 2 |  3  | 3 | 3.5 |  2 |  4  | 1 | 5.5 | 4.5 |
--------------------------------------------------
-width  | 1 | 1.5 | 1 |  .5 | .5 | 1.5 | 1 |  1  |  1  |
+| color  | B |  R  | B |  R  |  B |  R  | B |  R  |  ?  |
+ ------- |---|-----|---|-----|----|-----|---|-----|---- |
+| length | 2 |  3  | 3 | 3.5 |  2 |  4  | 1 | 5.5 | 4.5 |
+| width  | 1 | 1.5 | 1 |  .5 | .5 | 1.5 | 1 |  1  |  1  |
 
 B - Blue 
 R - Red
