@@ -1,10 +1,10 @@
 
 // Training set, [ length, width, color(0-blue and 1-red) 
 
-var dataB1 = [2,  1, 0];
-var dataB2 = [3,  1, 0];
-var dataB3 = [2, .5, 0];
-var dataB4 = [1,  1, 0];
+var dataB1 = [7,  2, 0];
+var dataB2 = [7,  3, 0];
+var dataB3 = [7, 1, 0];
+var dataB4 = [7,  1, 0];
 
 var dataR1 = [3,   1.5, 1];
 var dataR2 = [3.5, .5,  1];
